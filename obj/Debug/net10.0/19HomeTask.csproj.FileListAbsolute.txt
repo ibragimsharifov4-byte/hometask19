@@ -1,0 +1,14 @@
+C:\Users\mardin it\OneDrive\Desktop\С# projects\19HomeTask\bin\Debug\net10.0\19HomeTask.exe
+C:\Users\mardin it\OneDrive\Desktop\С# projects\19HomeTask\bin\Debug\net10.0\19HomeTask.deps.json
+C:\Users\mardin it\OneDrive\Desktop\С# projects\19HomeTask\bin\Debug\net10.0\19HomeTask.runtimeconfig.json
+C:\Users\mardin it\OneDrive\Desktop\С# projects\19HomeTask\bin\Debug\net10.0\19HomeTask.dll
+C:\Users\mardin it\OneDrive\Desktop\С# projects\19HomeTask\bin\Debug\net10.0\19HomeTask.pdb
+C:\Users\mardin it\OneDrive\Desktop\С# projects\19HomeTask\obj\Debug\net10.0\19HomeTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mardin it\OneDrive\Desktop\С# projects\19HomeTask\obj\Debug\net10.0\19HomeTask.AssemblyInfoInputs.cache
+C:\Users\mardin it\OneDrive\Desktop\С# projects\19HomeTask\obj\Debug\net10.0\19HomeTask.AssemblyInfo.cs
+C:\Users\mardin it\OneDrive\Desktop\С# projects\19HomeTask\obj\Debug\net10.0\19HomeTask.csproj.CoreCompileInputs.cache
+C:\Users\mardin it\OneDrive\Desktop\С# projects\19HomeTask\obj\Debug\net10.0\19HomeTask.dll
+C:\Users\mardin it\OneDrive\Desktop\С# projects\19HomeTask\obj\Debug\net10.0\refint\19HomeTask.dll
+C:\Users\mardin it\OneDrive\Desktop\С# projects\19HomeTask\obj\Debug\net10.0\19HomeTask.pdb
+C:\Users\mardin it\OneDrive\Desktop\С# projects\19HomeTask\obj\Debug\net10.0\19HomeTask.genruntimeconfig.cache
+C:\Users\mardin it\OneDrive\Desktop\С# projects\19HomeTask\obj\Debug\net10.0\ref\19HomeTask.dll
